@@ -1,0 +1,54 @@
+/*Regla 1*/
+*{
+    font-family: 'Rubik', sans-serif;
+}
+/*Regla 2*/
+body{
+    margin: 0;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: rgb(255, 175, 175);
+}
+/*Regla 3*/
+h1{
+    text-decoration: underline red;
+}
+/*Regla 4*/
+table{
+    margin-left: 28%;
+    margin-right: 25%;
+    border: solid red 2px;
+    border-radius: 8px;
+}
+/*Regla 5*/
+td{
+    padding: 30px;
+    border: solid red 2px;
+    border-radius: 3px;
+}
+/*Regla 6*/
+.concolor{
+    background-color: lightcoral;
+}
+/*Regla 7*/
+strong{
+    color: red;
+}
+/*Regla 8*/
+.desc-img > span{
+    background-color: lightcoral;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: small;
+}
+/*Regla 9*/
+img{
+    width: 80%;
+    border-radius: 30px;
+    border: solid red 2px;
+}
+/*Regla 10*/
+#fotoenzo{
+    width: 50%;
+}
